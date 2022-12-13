@@ -1,0 +1,15 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		}
+	],
+    "settings": {
+        "picgo.picBed.current": "github",
+        "picgo.picBed.github.branch": "main",
+        "picgo.picBed.github.customUrl": "https://cdn.jsdelivr.net/gh/Nido77/notesimage@main",
+        "picgo.picBed.github.path": "img/",
+        "picgo.picBed.github.repo": "Nido77/notesimage",
+        "picgo.picBed.github.token": "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"
+    }
+}
